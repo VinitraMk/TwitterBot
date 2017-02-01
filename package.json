@@ -1,0 +1,15 @@
+{
+  "name": "killuabot",
+  "version": "1.0.0",
+  "description": "I am trying npm",
+  "main": "index.js",
+  "scripts": {
+      "start":"node retweet.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "killua",
+  "license": "ISC"
+}
